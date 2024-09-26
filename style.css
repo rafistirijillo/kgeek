@@ -14,7 +14,7 @@ body{
        box-shadow:0px 80px 40px black;
        margin-top:-200px;
        left:0%;
-       rigth:0%;
+       right:0%;
        z-index:20;
 }
 
@@ -27,7 +27,7 @@ body{
          border: 0px solid white;
          margin-top:50px;
          left:0%;
-         rigth:10%;
+         right:10%;
          z-index:1;
          text-align:center;
          color:white;
